@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Parijatha Shetty 👋
 
-<!--
-**prajnashetty333/prajnashetty333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sophomore, Computer Science Engineering student  
+💻 Interested in AI, Full Stack Development, Cybersecurity, and Research  
+🌱 Currently learning DSA in Python, Web Development, and AI tools  
+🚀 Love building projects that solve real-world problems  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python  
+- SQL  
+- HTML/CSS  
+- JavaScript  
+- Git/GitHub  
+- MongoDB  
+- MySQL  
+
+## Currently Working On
+- Improving development skills  
+- Building impactful projects  
+- Preparing for internships and placements  
+
+## Connect With Me
+GitHub: https://github.com/prajnashetty333/prajnashetty333
+LinkedIn: www.linkedin.com/in/prajna-shetty-744527316
+⭐ Always learning and building.
