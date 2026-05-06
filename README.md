@@ -1,4 +1,4 @@
-# Hi, I'm Parijatha Shetty 👋
+# Hi, I'm Prajna Shetty 👋
 
 🎓 Sophomore, Computer Science Engineering student  
 💻 Interested in AI, Full Stack Development, Cybersecurity, and Research  
