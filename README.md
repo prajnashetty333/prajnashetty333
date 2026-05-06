@@ -21,6 +21,6 @@
 - Preparing for internships and placements  
 
 ## Connect With Me
-GitHub: https://github.com/prajnashetty333/prajnashetty333
-LinkedIn: www.linkedin.com/in/prajna-shetty-744527316
-⭐ Always learning and building.
+- GitHub: https://github.com/prajnashetty333/prajnashetty333
+- LinkedIn: www.linkedin.com/in/prajna-shetty-744527316
+- ⭐ Always learning and building.
