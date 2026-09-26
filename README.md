@@ -28,12 +28,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🕉️ Vikrutivaani
-Web app that generates and validates *Ghana Pāṭha* (a Vikṛti Pāṭha permutation of Vedic recitation) — React/TypeScript frontend, Python rule-engine backend, now adding an authentic Sanskrit-accented TTS module.
-
-</td>
-<td width="50%" valign="top">
-
 ### 🛕 DevAlaya
 Flask/Python backend for temple architecture classification using EfficientNet with Grad-CAM/LIME explainability, fully Dockerized with Gunicorn.
 <br>🔗 [github.com/prajnashetty333/DevAalaya](https://github.com/prajnashetty333/DevAalaya)
